@@ -1,1 +1,1 @@
-I create this repository to record my AI learning experience and problem
+记录自己的AI学习旅程
