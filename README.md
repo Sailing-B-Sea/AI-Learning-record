@@ -13,7 +13,18 @@
 </details>
 
 
-***`花絮：开始遇到的第一关就是不会markdown语法，好尴尬呀！感谢gpt，只能用gpt边查边写。`***
+***`花絮：开始遇到的第一关就是不会markdown语法，好尴尬呀！感谢gpt，只能用gpt边查边写。表格是用了HTML标签`***
 
 ### 机器学习数学知识体系总览：
-学科
+<table>
+  <tr>
+    <th>标题</th>
+    <th>学科</th>
+  </tr>
+  <tr>
+    <td rowspan="2">主类</td>
+  </tr>
+  <tr>
+    <td colspan="3">这个单元格横跨三列</td>
+  </tr>
+</table>
