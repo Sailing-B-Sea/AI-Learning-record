@@ -16,15 +16,32 @@
 ***`花絮：开始遇到的第一关就是不会markdown语法，好尴尬呀！感谢gpt，只能用gpt边查边写。表格是用了HTML标签`***
 
 ### 机器学习数学知识体系总览：
-<table>
+
+<table border="1" cellspacing="0" cellpadding="8">
   <tr>
-    <th>标题</th>
-    <th>学科</th>
+    <th rowspan="2">学科</th>
+    <th colspan="3">成绩（分数）</th>
   </tr>
   <tr>
-    <td rowspan="2">主类</td>
+    <th>语文</th>
+    <th>数学</th>
+    <th>英语</th>
   </tr>
   <tr>
-    <td colspan="3">这个单元格横跨三列</td>
+    <td rowspan="3">张三</td>
+    <td>88</td>
+    <td>92</td>
+    <td>85</td>
+  </tr>
+  <tr>
+    <td>89</td>
+    <td>93</td>
+    <td>86</td>
+  </tr>
+  <tr>
+    <td>90</td>
+    <td>94</td>
+    <td>87</td>
   </tr>
 </table>
+
