@@ -16,32 +16,35 @@
 ***`花絮：开始遇到的第一关就是不会markdown语法，好尴尬呀！感谢gpt，只能用gpt边查边写。表格是用了HTML标签`***
 
 ### 机器学习数学知识体系总览：
+<!--这行是注释：  这行定义了表格的开头，定义了外观样式参数-->
+<table border="1" cellspacing="0" cellpadding="8">  
 
-<table border="1" cellspacing="0" cellpadding="8">
-  <tr>
-    <th rowspan="2">学科</th>
-    <th colspan="3">成绩（分数）</th>
-  </tr>
-  <tr>
-    <th>语文</th>
-    <th>数学</th>
-    <th>英语</th>
-  </tr>
-  <tr>
-    <td rowspan="3">张三</td>
-    <td>88</td>
-    <td>92</td>
-    <td>85</td>
-  </tr>
-  <tr>
-    <td>89</td>
-    <td>93</td>
-    <td>86</td>
-  </tr>
-  <tr>
-    <td>90</td>
-    <td>94</td>
-    <td>87</td>
-  </tr>
+<!--这行是注释：   <tr>：表示一行（table row）   <th>：表头单元格（table header）  -->
+<tr>
+   <th >层级</th>
+   <th >学科</th>
+</tr>
+
+<!--这行是注释：   <td>：表格数据单元格（table data）  -->
+<tr>
+   <td rowspan="3"><strong>基础</strong></td>
+   <td>线性代数</td>
+</tr>
+
+<!--这行是注释：   这行只需要一个 <td>，因为“层级”那一列已经被上面那格合并了。  -->
+<tr>
+   <td>概率统计</td>
+</tr>
+
+<!--这行是注释：   同上一行解释  -->
+<tr>
+   <td>微积分</td>
+</tr>
+
+<!--这行是注释：   被基础占用的3行已经用完，这里需要使用两个<td>标签了  -->
+<tr>
+   <td>进阶</td>
+   <td>信息论</td>
+</tr>
 </table>
 
