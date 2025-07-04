@@ -1,5 +1,5 @@
 #####  ***简单介绍下：***       
-##### ***本人大学毕业已经快10年了，基本已经把大学学的知识都还给老师了，不对，大学学的也不好，学渣一位，惭愧惭愧！！！从今天开始，我想通过Github记录自己学习机器学习的过程，以便以后自己复习，并且能够随时回头查阅自己学习过程中的一些想法***
+##### ***大学毕业已经快10年了，基本已经把大学学的知识都还给老师了，本来大学学的也不好，学渣一位，惭愧惭愧！！！从今天开始，我想通过Github记录自己学习机器学习的过程，以便以后自己复习，并且能够随时回头查阅自己学习过程中的一些想法***
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;***2025年7月3日***
 <details>
@@ -9,7 +9,8 @@
 
 - **2025-07-03**  
   - 新增：第一天开写，先学习下markdown，简单列下整个大纲吧
-
+- **2025-07-04** 
+  -新增：继续昨天未完成的内容，研究markdown跟html的表格花了一会功夫，哈哈哈，不过弄明白了一两点知识点，挺不错的。
 </details>
 
 
@@ -46,6 +47,8 @@
    <td rowspan="2">进阶</td>
    <td>数值优化</td>
 </tr>
+
+<!--这行是注释：   被基础占用的3行已经用完，这里需要使用两个<td>标签了  -->
 <tr>
    <td>信息论</td>
 </tr>
